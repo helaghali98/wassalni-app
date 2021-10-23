@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917942880672",
+    "firebase_url": "https://wassalni-858de-default-rtdb.firebaseio.com",
+    "project_id": "wassalni-858de",
+    "storage_bucket": "wassalni-858de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917942880672:android:28e34a7deea4ec4af7fcc5",
+        "android_client_info": {
+          "package_name": "com.hela.wassalni_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917942880672-f1rb6cqf8ju7le3o2rt453uh89vr6rgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Zn19xeamke2HKFWJmhFI3WjuZSBdh9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917942880672-f1rb6cqf8ju7le3o2rt453uh89vr6rgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
